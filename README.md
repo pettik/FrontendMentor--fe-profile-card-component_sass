@@ -4,4 +4,4 @@
 
 ## Welcome! 👋
 
-This is my very 1st time Code challenge from <a href="https://www.frontendmentor.io/"><style="bold">FrontendMentor site</style></a>.
+This is my very 1st time Code challenge from <a href="https://www.frontendmentor.io/">FrontendMentor site</a>.
