@@ -4,8 +4,8 @@
 
 ## Welcome! 👋
 
-This is my very 1st time Code challenge from <a href="https://www.frontendmentor.io/">FrontendMentor site</a> Frontend Mentor challenges help me improve your coding skills by building realistic projects. .
-But this time I come with SASS and I re-create the first challenge with Sass components to pratice my Sass skills.
+This is my very 1st time Code challenge from <a href="https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ">FrontendMentor Profile card component challenge</a>. Frontend Mentor challenges help me improve your coding skills by building realistic projects. .
+<b>But this time I come with SASS and I re-create the first challenge with Sass components to pratice my Sass skills.</b>
 
 ## Table of contents
 
