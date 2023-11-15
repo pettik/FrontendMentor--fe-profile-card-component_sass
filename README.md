@@ -29,8 +29,8 @@ The designs are in JPG static format. Using JPGs will mean that I needed to use 
 
 ### Links
 
-- Solution URL: [FrontendMentor--age-calculator-app-main](https://github.com/pettik/FrontendMentor--age-calculator-app-main/tree/main)
-- Live Site URL: [https://pettik-age-calculator-app-main.netlify.app/](https://pettik-age-calculator-app-main.netlify.app/)
+- Solution URL: [FrontendMentor--fe-profile-card-component_sass](https://github.com/pettik/FrontendMentor--fe-profile-card-component_sass)
+- Live Site URL: [https://profile-card-component-sass.netlify.app/](https://profile-card-component-sass.netlify.app/)
 
 ## Author
 
