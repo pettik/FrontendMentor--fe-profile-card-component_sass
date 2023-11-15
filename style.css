@@ -13,6 +13,10 @@
   box-sizing: border-box;
 }
 
+.attribution {
+  display: none;
+}
+
 body {
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 400;
@@ -22,7 +26,6 @@ body {
   height: 1024px;
 }
 
-/* POZADÍ */
 .left-top,
 .right-bottom {
   position: absolute;
@@ -44,7 +47,6 @@ body {
   margin-right: -100px;
 }
 
-/* hlavni obsah */
 .content {
   max-width: 350px;
   max-height: 370px;
@@ -57,8 +59,7 @@ body {
   box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
 }
 
-/* hlavička */
-.content .header {
+.header {
   width: 100%;
   height: 140px;
   text-align: center;
@@ -67,46 +68,45 @@ body {
   border-radius: 10px 10px 0 0;
 }
 
-.content .header img {
+.header img {
   border-radius: 50%;
   margin-top: 95px;
   border: 5px solid #fff;
 }
 
-/* střed */
-.content .middle-content {
+.middle-content {
   height: 145px;
   padding-top: 75px;
 }
 
-.content .middle-content p {
+.content p {
   color: var(--primaryGrayish);
 }
 
-.content .middle-content p span {
+.middle-content p span,
+.item span {
   font-weight: 700;
   color: var(--primaryVeryDark);
 }
 
-.content .middle-content p:last-child {
+.middle-content p:last-child {
   font-size: 14px;
 }
 
-/* spodek */
-.content .bottom-content {
+.bottom-content {
   height: 90px;
   display: flex;
   justify-content: space-around;
   padding: 25px 20px;
   border-top: 1px solid hsla(0, 0%, 59%, 0.377);
-  color: var(--primaryGrayish);
+}
+
+.item {
   font-size: 12px;
 }
 
-.content .bottom-content span {
-  color: var(--primaryVeryDark);
+.item span {
   display: block;
-  font-weight: 700;
   font-size: 18px;
   line-height: 1.2;
 }
